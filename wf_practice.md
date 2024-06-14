@@ -1,5 +1,4 @@
-### These examples cover various scenarios and use cases for each of the 10 advanced SQL window functions. By leveraging these functions, you can perform complex analytical tasks and gain deeper insights from your data.
-
+### These examples cover various scenarios and use cases for each of the 10 advanced SQL window functions.
 ### 1. `ROW_NUMBER()`
 
 #### What It Is
